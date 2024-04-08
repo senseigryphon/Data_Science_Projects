@@ -1,2 +1,3 @@
-# datasciencecapstoneproject
-### Capstone Project for final course of IBM Data Science Professional Certificate
+# Data Science Projects
+### SpaceX Data Science Project
+### Premier League Standard Stats Project
